@@ -1,0 +1,49 @@
+
+body {
+    margin: 70px;
+    font-family: sans-serif;
+   }
+
+
+h1 {
+    font-size: 36px;
+    color: #000099;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2{
+    font-size:32px;
+    color: #3333ff;
+}
+
+h3{
+    font-size: 26px;
+    color: #00004d;
+    font-weight: bold;
+
+}
+
+p{
+    font-size: 18x;
+}
+
+
+ul {
+  border-left: 6px solid yellow;
+  background-color: #ffff80;
+}
+
+.hello {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.background {
+    background-color: #66ff66;
+    font-weight: bold;
+    border: 2px dotted green;
+}
+
+
